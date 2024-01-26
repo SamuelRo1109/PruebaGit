@@ -16,6 +16,8 @@ public class EmpleadoDTO extends AspiranteDTO  {
 		return super.toString() + "EmpleadoDTO []";
 	}
 	
-	
+	public void imprimir() {
+		System.out.println("hola");
+	}
 	
 }
