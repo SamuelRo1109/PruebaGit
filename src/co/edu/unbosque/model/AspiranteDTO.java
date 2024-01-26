@@ -36,6 +36,6 @@ public class AspiranteDTO {
 		return "AspiranteDTO [numDocumento=" + numDocumento + ", nombre=" + nombre + "]";
 	}
 
-	
+	//
 
 }
