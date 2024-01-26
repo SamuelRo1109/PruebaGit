@@ -14,6 +14,7 @@ public class ProveedorDTO extends AspiranteDTO {
 	@Override
 	public String toString() {
 		return super.toString() +  "ProveedorDTO []";
+		
 	}
 	
 }
